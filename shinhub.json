@@ -1,9 +1,9 @@
 {
     "dialog_visibility": "VISIBLE",
-    "min_version" : "5.5",
-    "dialog_title": "apP moved to GS Tools",
-    "dialog_message": "segara pindah apk dan download GS Toola sekarang juga, klik update aplikasi",
-    "redirect_app": "https://play.google.com/store/apps/dev?id=7257410514584421739",
+    "min_version" : "5.55",
+    "dialog_title": "apl moved to Ryu Tools",
+    "dialog_message": "segara pindah apk dan download Ryu Tools sekarang juga, klik update aplikasi",
+    "redirect_app": "https://play.google.com/store/apps/details?id=com.Ryu.Tools.MLSkinInjector.ML.Toolkit",
     "tutor_file": "https://youtube.com/shorts/Q-7WUlODrFg?si=7pazJNNzGS1AeMuZ",
     "tutor_shizuku": "https://youtube.com/shorts/qrwK7zf7ycw?si=7qpaXwH5I8plcQ2x",
     "yt": "https://youtube.com/@gs_injector?si=Zc2zJYWJxZhlxpvi",
